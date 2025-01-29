@@ -1,1 +1,6 @@
-# project1Amelie Manzi
+#!/bin/bash
+Julia 
+Ange
+Frank
+yohan
+
